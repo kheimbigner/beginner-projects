@@ -20,6 +20,7 @@ Programmer Beast Mode Spotify playlist: https://open.spotify.com/playlist/4Akns5
 # print(f"subscribe to {youtuber}")
 
 # Add missing input statements for all variables used in the madlib
+adj = input("Adjective: ")
 season = input("Season: ")
 name = input("Name: ")
 place = input("Place: ")
